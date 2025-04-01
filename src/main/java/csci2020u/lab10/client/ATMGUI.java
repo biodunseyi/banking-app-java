@@ -8,7 +8,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.Objects;
 
-public class ATMGUI extends JFrame {
+public class \ATMGUI extends JFrame {
     private final JButton[] buttons = new JButton[6];
     private final JLabel[] labels = new JLabel[6];
     private final JTextField input;
